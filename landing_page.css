@@ -7,4 +7,5 @@ header {
 }
 main {
     padding: 20px;
+    background-color: #f4f4f9; /* Changed to a lighter background for better readability */
 }
